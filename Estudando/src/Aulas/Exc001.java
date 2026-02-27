@@ -1,11 +1,11 @@
 package Aulas;
 
 public class Exc001 {
-        public void main (String[] args){
+        public void main(String[] args) {
+            int numberA = 5;
+            int numberB = 4;
+            int soma = numberA + numberB;
 
-            int number;
-
-            System.out.println("Olá Mundo! ");
-
+            System.out.println(soma);
         }
 }
