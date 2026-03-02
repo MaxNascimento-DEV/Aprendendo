@@ -14,5 +14,7 @@ public class Exc001 {
             System.out.println(pessoa1.getName());
             System.out.println(pessoa1.getYears());
 
+                System.out.println("Hellow!! WORD!");
+
         }
 }
