@@ -59,4 +59,3 @@ Este repositório é focado em **aprendizado e experimentação**, portanto algu
 
 - GitHub: https://github.com/MaxNascimento-DEV/
 - LinkedIn: https://www.linkedin.com/in/maxwell-nascimento-5602ba276/
-  .
