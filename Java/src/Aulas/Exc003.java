@@ -18,7 +18,7 @@ public class Exc003 {
         if (result != 0){
             System.out.println("numero impar");
         }
-        else if (result == 0){
+        else {
             System.out.println("Numero Par");
         }
         if(num1 > 0) {
