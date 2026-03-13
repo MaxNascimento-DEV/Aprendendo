@@ -23,6 +23,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="3AFuO0PoAbSxbaojzine0el0jCd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,10 +37,13 @@
     "Application.Exc004.executor": "Run",
     "Application.Exc005.executor": "Run",
     "Application.Exc006.executor": "Run",
+    "Application.Exc007.executor": "Run",
+    "Application.Exc008.executor": "Run",
+    "Application.Exc009.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "desenvolvimento",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Estudando/Estudando/Aulas/Aprendendo/Java",
     "project.structure.last.edited": "Modules",
@@ -45,46 +51,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exc006">
-    <configuration name="Exc001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc001" />
-      <module name="Estudando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aulas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exc003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc003" />
-      <module name="Estudando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aulas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exc004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc004" />
-      <module name="Estudando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aulas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exc009">
     <configuration name="Exc005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aulas.Exc005" />
       <module name="Estudando" />
@@ -111,13 +78,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exc007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.Exc007" />
+      <module name="Estudando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exc008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.Exc008" />
+      <module name="Estudando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exc009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.Exc009" />
+      <module name="Estudando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exc009" />
+        <item itemvalue="Application.Exc008" />
+        <item itemvalue="Application.Exc007" />
         <item itemvalue="Application.Exc006" />
         <item itemvalue="Application.Exc005" />
-        <item itemvalue="Application.Exc004" />
-        <item itemvalue="Application.Exc003" />
-        <item itemvalue="Application.Exc001" />
       </list>
     </recent_temporary>
   </component>
