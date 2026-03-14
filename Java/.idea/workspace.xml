@@ -40,10 +40,11 @@
     "Application.Exc007.executor": "Run",
     "Application.Exc008.executor": "Run",
     "Application.Exc009.executor": "Run",
+    "Application.Exc010.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "desenvolvimento",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Estudando/Estudando/Aulas/Aprendendo/Java",
     "project.structure.last.edited": "Modules",
@@ -51,20 +52,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exc009">
-    <configuration name="Exc005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc005" />
-      <module name="Estudando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aulas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exc010">
     <configuration name="Exc006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aulas.Exc006" />
       <module name="Estudando" />
@@ -117,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exc010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.Exc010" />
+      <module name="Estudando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aulas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exc010" />
         <item itemvalue="Application.Exc009" />
         <item itemvalue="Application.Exc008" />
         <item itemvalue="Application.Exc007" />
         <item itemvalue="Application.Exc006" />
-        <item itemvalue="Application.Exc005" />
       </list>
     </recent_temporary>
   </component>
