@@ -3,11 +3,38 @@
   <component name="ChangeListManager">
     <list default="true" id="f3358e54-879d-4185-9dc6-9977e2a8daff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/POO/Exc001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/POO/Exc002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais000_IF_ElseIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Operadores000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Operadores001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais001_IF_ElseIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais002_IF_ElseIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição000_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição001_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais003_Switch_Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição002_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição003_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/Exc014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição004_WHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição005_WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição005_WHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Exc016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Exc016.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/Estudando/Estudando/Aulas/Aprendendo/Java" value="3AFuO0PoAbSxbaojzine0el0jCd" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="GPT-5 mini" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+    </selectedModels>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,38 +57,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Exc001.executor": "Run",
-    "Application.Exc003.executor": "Run",
-    "Application.Exc004.executor": "Run",
-    "Application.Exc005.executor": "Run",
-    "Application.Exc006.executor": "Run",
-    "Application.Exc007.executor": "Run",
-    "Application.Exc008.executor": "Run",
-    "Application.Exc009.executor": "Run",
-    "Application.Exc010.executor": "Run",
-    "Application.Exc012.executor": "Run",
-    "Application.Exc013.executor": "Run",
-    "Application.Exc014.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "desenvolvimento",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Estudando/Estudando/Aulas/Aprendendo/Java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Exc001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc016.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Estudando/Estudando/Aulas/Aprendendo/Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exc014">
-    <configuration name="Exc009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc009" />
+}</component>
+  <component name="RunManager" selected="Application.Exc016">
+    <configuration name="EstruturaDeRepetição002_FOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.EstruturaDeRepetição002_FOR" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.*" />
+          <option name="PATTERN" value="Aulas.POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc010" />
+    <configuration name="EstruturaDeRepetição003_FOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.EstruturaDeRepetição003_FOR" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.*" />
+          <option name="PATTERN" value="Aulas.POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc012" />
+    <configuration name="EstruturaDeRepetição004_WHILE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.EstruturaDeRepetição004_WHILE" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.*" />
+          <option name="PATTERN" value="Aulas.POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc013" />
+    <configuration name="EstruturaDeRepetição005_WHILE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.EstruturaDeRepetição005_WHILE" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.*" />
+          <option name="PATTERN" value="Aulas.POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.Exc014" />
+    <configuration name="Exc016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.Exc016" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.*" />
+          <option name="PATTERN" value="Aulas.POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exc014" />
-        <item itemvalue="Application.Exc013" />
-        <item itemvalue="Application.Exc012" />
-        <item itemvalue="Application.Exc010" />
-        <item itemvalue="Application.Exc009" />
+        <item itemvalue="Application.Exc016" />
+        <item itemvalue="Application.EstruturaDeRepetição005_WHILE" />
+        <item itemvalue="Application.EstruturaDeRepetição004_WHILE" />
+        <item itemvalue="Application.EstruturaDeRepetição003_FOR" />
+        <item itemvalue="Application.EstruturaDeRepetição002_FOR" />
       </list>
     </recent_temporary>
   </component>
@@ -147,5 +177,17 @@
       <updated>1772200604757</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>

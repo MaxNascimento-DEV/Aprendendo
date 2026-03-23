@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
 * Exc: Crie um algoritimo que receber o valor em kg e devolver o valor transformado em libras.
 * */
 
-public class Exc004 {
+public class Operadores000 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

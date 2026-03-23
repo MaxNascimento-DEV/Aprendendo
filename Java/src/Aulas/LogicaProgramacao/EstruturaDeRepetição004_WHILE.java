@@ -1,8 +1,8 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 import java.util.Scanner;
 
-public class Exc014 {
+public class EstruturaDeRepetição004_WHILE {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

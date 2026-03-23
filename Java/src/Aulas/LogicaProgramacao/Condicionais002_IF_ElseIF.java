@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 import java.util.Scanner;
 /*
@@ -6,7 +6,7 @@ import java.util.Scanner;
  *(media >= 7), está em recuperação (5 <= média < 7) ou reprovado (media < 5).
  */
 
-public class Exc007 {
+public class Condicionais002_IF_ElseIF {
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
 

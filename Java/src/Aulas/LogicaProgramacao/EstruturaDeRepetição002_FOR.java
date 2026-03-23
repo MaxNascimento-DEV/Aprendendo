@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 import java.util.Scanner;
 /*
@@ -11,7 +11,7 @@ import java.util.Scanner;
 */
 
 
-public class Exc012 {
+public class EstruturaDeRepetição002_FOR {
     public static void main(String[] args){
      Scanner sc = new Scanner(System.in);
 

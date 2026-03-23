@@ -1,9 +1,9 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 import java.util.Scanner;
 /*
 * Soma de Intervalo: Peça ao usuário dois números e some todos os inteiros entre eles.
 * */
-public class Exc009 {
+public class EstruturaDeRepetição001_FOR {
      public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

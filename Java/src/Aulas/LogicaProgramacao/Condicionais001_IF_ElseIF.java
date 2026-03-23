@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Maior de Três: Leia três números e imprima qual deles é o maior.
  *
  * */
-public class Exc006 {
+public class Condicionais001_IF_ElseIF {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

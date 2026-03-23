@@ -1,6 +1,5 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
-import javax.xml.transform.Source;
 import java.util.Scanner;
 /**
  *
@@ -14,7 +13,7 @@ import java.util.Scanner;
  *
  */
 
-public class Exc010 {
+public class Condicionais003_Switch_Case {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
