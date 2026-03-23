@@ -1,10 +1,10 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 import java.util.Scanner;
 /*
 * Tabuada: Leia um número e imprima a tabuada dele de 1 a 10.
 *
 * */
-public class Exc008 {
+public class EstruturaDeRepetição000_FOR {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

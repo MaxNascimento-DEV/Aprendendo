@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.POO;
 
 public class Exc001 {
         public void main(String[] args) {

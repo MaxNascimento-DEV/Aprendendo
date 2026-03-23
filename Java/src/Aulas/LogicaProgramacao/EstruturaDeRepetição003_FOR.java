@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
 *   Exibir se a fruta foi encontrada ou não
  */
 
-public class Exc013 {
+public class EstruturaDeRepetição003_FOR {
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
 

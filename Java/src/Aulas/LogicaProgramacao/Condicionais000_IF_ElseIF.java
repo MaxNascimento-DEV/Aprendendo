@@ -1,9 +1,9 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 
 import java.util.Scanner;
 
-public class Exc003 {
+public class Condicionais000_IF_ElseIF {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 /*

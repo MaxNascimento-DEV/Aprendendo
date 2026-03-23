@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.LogicaProgramacao;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 *  temperatura em Celsius e a converta para Fahrenheit
 *
 * */
-public class Exc005 {
+public class Operadores001 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
