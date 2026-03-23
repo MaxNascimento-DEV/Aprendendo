@@ -22,11 +22,15 @@ O objetivo é registrar meu progresso, consolidar conhecimento e criar um histó
 A estrutura do repositório está organizada por tecnologia ou tema de estudo.
 
 :file_folder: Java
+
 └:file_folder: LogicaDeProgramação
+
 ⠀:file_folder: POO
 
 :file_folder: MySQL
+
 └:file_folder: Criação_Das_Tabelas
+
  :file_folder: Insert_Select_Joins
 
 
