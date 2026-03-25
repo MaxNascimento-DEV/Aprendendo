@@ -1,6 +1,6 @@
 package Aulas.POO.Pessoa;
 
-public class PessoaTeste {
+public class PessoaMain {
     public static void main(String[] args) {
         Pessoa pessoa1 = new Pessoa("João", 17, 1.75);
 

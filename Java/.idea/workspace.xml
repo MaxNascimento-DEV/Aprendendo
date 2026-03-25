@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3358e54-879d-4185-9dc6-9977e2a8daff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/PessoaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/PessoaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Produtos/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/POO/Produtos/ProdutoMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,40 +36,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ContadorIntervalo.executor": "Run",
-    "Application.ContadorNumeros.executor": "Run",
-    "Application.Exc000.executor": "Run",
-    "Application.Exc001.executor": "Run",
-    "Application.Exc003.executor": "Run",
-    "Application.Exc004.executor": "Run",
-    "Application.Exc005.executor": "Run",
-    "Application.Exc006.executor": "Run",
-    "Application.Exc007.executor": "Run",
-    "Application.Exc008.executor": "Run",
-    "Application.Exc009.executor": "Run",
-    "Application.Exc010.executor": "Run",
-    "Application.Exc012.executor": "Run",
-    "Application.Exc013.executor": "Run",
-    "Application.Exc014.executor": "Run",
-    "Application.Exc016.executor": "Run",
-    "Application.NumerosEstatistica.executor": "Run",
-    "Application.PessoaTeste.executor": "Run",
-    "Application.Pessoateste.executor": "Run",
-    "Application.ProdutoTeste.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "desenvolvimento",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Estudando/Estudando/Aulas/Aprendendo/Java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ContadorIntervalo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContadorNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc000.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exc016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumerosEstatistica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pessoateste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutoTeste.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;desenvolvimento&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Estudando/Estudando/Aulas/Aprendendo/Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ProdutoTeste">
+}</component>
+  <component name="RunManager" selected="Application.ProdutoMain">
     <configuration name="ContadorIntervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.ContadorIntervalo" />
       <module name="Estudando" />
@@ -110,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.POO.Pessoa.PessoaTeste" />
+    <configuration name="PessoaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.POO.Pessoa.PessoaMain" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.POO.Produtos.ProdutoTeste" />
+    <configuration name="ProdutoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aulas.POO.Produtos.ProdutoMain" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProdutoTeste" />
-        <item itemvalue="Application.PessoaTeste" />
+        <item itemvalue="Application.ProdutoMain" />
+        <item itemvalue="Application.PessoaMain" />
         <item itemvalue="Application.ContadorIntervalo" />
         <item itemvalue="Application.ContadorNumeros" />
         <item itemvalue="Application.NumerosEstatistica" />

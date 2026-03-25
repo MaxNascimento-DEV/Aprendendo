@@ -1,6 +1,6 @@
 package Aulas.POO.Produtos;
 
-public class ProdutoTeste {
+public class ProdutoMain {
    public static void main(String[] args) {
         Produto produto1 = new Produto("Notebook", 3000, 2);
 
