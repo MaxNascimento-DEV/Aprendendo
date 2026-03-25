@@ -88,7 +88,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ProdutoMain">
+  <component name="RunManager" selected="Application.teste">
     <configuration name="ContadorIntervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulas.Logica.ContadorIntervalo" />
       <module name="Estudando" />
@@ -104,19 +104,6 @@
     </configuration>
     <configuration name="ContadorNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulas.Logica.ContadorNumeros" />
-      <module name="Estudando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aulas.Logica.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumerosEstatistica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulas.Logica.NumerosEstatistica" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
@@ -154,13 +141,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Logica.teste" />
+      <module name="Estudando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.Logica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.teste" />
         <item itemvalue="Application.ProdutoMain" />
         <item itemvalue="Application.PessoaMain" />
         <item itemvalue="Application.ContadorIntervalo" />
         <item itemvalue="Application.ContadorNumeros" />
-        <item itemvalue="Application.NumerosEstatistica" />
       </list>
     </recent_temporary>
   </component>
