@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3358e54-879d-4185-9dc6-9977e2a8daff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/PessoaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/PessoaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Produtos/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/POO/Produtos/ProdutoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais000_IF_ElseIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais000_IF_ElseIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais001_IF_ElseIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais001_IF_ElseIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais002_IF_ElseIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais002_IF_ElseIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais003_Switch_Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais003_Switch_Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/ContadorIntervalo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/ContadorIntervalo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/ContadorNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/ContadorNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição000_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição000_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição001_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição001_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição002_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição002_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição003_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição003_FOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição004_WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição004_WHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição005_WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição005_WHILE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/NumerosEstatistica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/NumerosEstatistica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Operadores000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Operadores000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Operadores001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Operadores001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Pessoa/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/PessoaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Pessoa/PessoaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Produtos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Produtos/ProdutoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Produtos/ProdutoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +90,11 @@
 }</component>
   <component name="RunManager" selected="Application.ProdutoMain">
     <configuration name="ContadorIntervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.ContadorIntervalo" />
+      <option name="MAIN_CLASS_NAME" value="aulas.Logica.ContadorIntervalo" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.LogicaProgramacao.*" />
+          <option name="PATTERN" value="aulas.Logica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="ContadorNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.ContadorNumeros" />
+      <option name="MAIN_CLASS_NAME" value="aulas.Logica.ContadorNumeros" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.LogicaProgramacao.*" />
+          <option name="PATTERN" value="aulas.Logica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="NumerosEstatistica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.LogicaProgramacao.NumerosEstatistica" />
+      <option name="MAIN_CLASS_NAME" value="aulas.Logica.NumerosEstatistica" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.LogicaProgramacao.*" />
+          <option name="PATTERN" value="aulas.Logica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="PessoaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.POO.Pessoa.PessoaMain" />
+      <option name="MAIN_CLASS_NAME" value="aulas.poo.Pessoa.PessoaMain" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.POO.Pessoa.*" />
+          <option name="PATTERN" value="aulas.poo.Pessoa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +142,11 @@
       </method>
     </configuration>
     <configuration name="ProdutoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aulas.POO.Produtos.ProdutoMain" />
+      <option name="MAIN_CLASS_NAME" value="aulas.poo.Produtos.ProdutoMain" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aulas.POO.Produtos.*" />
+          <option name="PATTERN" value="aulas.poo.Produtos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

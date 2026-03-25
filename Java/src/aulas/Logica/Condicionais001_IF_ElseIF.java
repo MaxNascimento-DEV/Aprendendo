@@ -1,4 +1,4 @@
-package Aulas.LogicaProgramacao;
+package aulas.Logica;
 
 import java.util.Scanner;
 

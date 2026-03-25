@@ -1,4 +1,4 @@
-package Aulas.LogicaProgramacao;
+package aulas.Logica;
 import java.util.Scanner;
 /*
 * Tabuada: Leia um número e imprima a tabuada dele de 1 a 10.

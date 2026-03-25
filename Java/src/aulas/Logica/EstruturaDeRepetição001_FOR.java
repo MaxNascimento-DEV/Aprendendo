@@ -1,4 +1,4 @@
-package Aulas.LogicaProgramacao;
+package aulas.Logica;
 import java.util.Scanner;
 /*
 * Soma de Intervalo: Peça ao usuário dois números e some todos os inteiros entre eles.

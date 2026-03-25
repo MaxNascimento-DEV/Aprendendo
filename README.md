@@ -19,25 +19,33 @@ O objetivo é registrar meu progresso, consolidar conhecimento e criar um histó
 
 ## 📂 Organização do Repositório
 
-A estrutura do repositório está organizada por tecnologia ou tema de estudo.
+A estrutura do repositório está organizada por linguagens, projetos ou tema de estudo.
 
-:file_folder: Java
-
-└ :file_folder: LogicaDeProgramação
-
-   └ :file_folder: POO
-
----
- 
- :file_folder: MySQL
-
-└ 📄 Criação_Das_Tabelas
-
-   └ 📄 Insert_Select_Joins
+      📂Java/
+       └─📂src/
+          └─📂aulas/
+             │─📂Logica/
+             │
+             │─📂poo/
 
 ---
 
-Cada pasta contém exercícios, exemplos de código e pequenos projetos desenvolvidos durante o aprendizado.
+      📂MySQL/
+       │─📄 Criação_Das_Tabelas
+       │─📄 Insert_Select_Joins
+
+---
+
+### 📌 Descrição
+
+- **logica/** → Exercícios de lógica de programação (if, loops, arrays)
+- **poo/** → Exercícios de Programação Orientada a Objetos (classes, métodos, encapsulamento)
+
+---
+
+# 🚀 Status
+
+Em evolução contínua com foco em backend Java.
 
 ---
 

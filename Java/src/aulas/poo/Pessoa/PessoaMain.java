@@ -1,4 +1,4 @@
-package Aulas.POO.Pessoa;
+package aulas.poo.Pessoa;
 
 public class PessoaMain {
     public static void main(String[] args) {
