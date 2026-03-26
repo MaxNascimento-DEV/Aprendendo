@@ -3,26 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3358e54-879d-4185-9dc6-9977e2a8daff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais000_IF_ElseIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais000_IF_ElseIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais001_IF_ElseIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais001_IF_ElseIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais002_IF_ElseIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais002_IF_ElseIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Condicionais003_Switch_Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Condicionais003_Switch_Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/ContadorIntervalo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/ContadorIntervalo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/ContadorNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/ContadorNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição000_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição000_FOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição001_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição001_FOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição002_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição002_FOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição003_FOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição003_FOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição004_WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição004_WHILE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/EstruturaDeRepetição005_WHILE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/EstruturaDeRepetição005_WHILE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/NumerosEstatistica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/NumerosEstatistica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Operadores000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Operadores000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/LogicaProgramacao/Operadores001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/LogicaProgramacao/Operadores001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Pessoa/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Pessoa/PessoaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Pessoa/PessoaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Produtos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/POO/Produtos/ProdutoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/poo/Produtos/ProdutoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/Logica/teste.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +13,7 @@
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_D:/Estudando/Estudando/Aulas/Aprendendo/Java" value="3AFuO0PoAbSxbaojzine0el0jCd" />
+      <entry key="_D:/Github/Aprendendo/Java" value="3BRV0KhT4ksSJK93einIm1qaqoq" />
     </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -55,46 +37,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ContadorIntervalo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContadorNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc000.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc008.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc010.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc016.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumerosEstatistica.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PessoaTeste.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pessoateste.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProdutoTeste.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;desenvolvimento&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Estudando/Estudando/Aulas/Aprendendo/Java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CarroTeste.executor": "Run",
+    "Application.ContadorIntervalo.executor": "Run",
+    "Application.ContadorNumeros.executor": "Run",
+    "Application.EmpregadoMain.executor": "Run",
+    "Application.Exc000.executor": "Run",
+    "Application.Exc001.executor": "Run",
+    "Application.Exc003.executor": "Run",
+    "Application.Exc004.executor": "Run",
+    "Application.Exc005.executor": "Run",
+    "Application.Exc006.executor": "Run",
+    "Application.Exc007.executor": "Run",
+    "Application.Exc008.executor": "Run",
+    "Application.Exc009.executor": "Run",
+    "Application.Exc010.executor": "Run",
+    "Application.Exc012.executor": "Run",
+    "Application.Exc013.executor": "Run",
+    "Application.Exc014.executor": "Run",
+    "Application.Exc016.executor": "Run",
+    "Application.LojaMain.executor": "Run",
+    "Application.NumerosEstatistica.executor": "Run",
+    "Application.PessoaTeste.executor": "Run",
+    "Application.Pessoateste.executor": "Run",
+    "Application.ProdutoTeste.executor": "Run",
+    "Application.teste.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "desenvolvimento",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Github/Aprendendo/Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.teste">
-    <configuration name="ContadorIntervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulas.Logica.ContadorIntervalo" />
+}]]></component>
+  <component name="RunManager" selected="Application.LojaMain">
+    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.poo.Carro.CarroTeste" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulas.Logica.*" />
+          <option name="PATTERN" value="aulas.poo.Carro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContadorNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulas.Logica.ContadorNumeros" />
+    <configuration name="EmpregadoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.poo.Empregado.EmpregadoMain" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulas.Logica.*" />
+          <option name="PATTERN" value="aulas.poo.Empregado.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulas.poo.Pessoa.PessoaMain" />
+    <configuration name="LojaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.poo.Loja.LojaMain" />
       <module name="Estudando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulas.poo.Pessoa.*" />
+          <option name="PATTERN" value="aulas.poo.Loja.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LojaMain" />
+        <item itemvalue="Application.CarroTeste" />
+        <item itemvalue="Application.EmpregadoMain" />
         <item itemvalue="Application.teste" />
         <item itemvalue="Application.ProdutoMain" />
-        <item itemvalue="Application.PessoaMain" />
-        <item itemvalue="Application.ContadorIntervalo" />
-        <item itemvalue="Application.ContadorNumeros" />
       </list>
     </recent_temporary>
   </component>
